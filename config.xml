@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>joao-pagamentos</name>
+	<displayName><![CDATA[João Pagamentos]]></displayName>
+	<version><![CDATA[0.0.1]]></version>
+	<description><![CDATA[Módulo de Pagamentos do João]]></description>
+	<author><![CDATA[joao-vitorfss09]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
